@@ -1,0 +1,1 @@
+# frontend-mentor-static-joblisting-attempt
