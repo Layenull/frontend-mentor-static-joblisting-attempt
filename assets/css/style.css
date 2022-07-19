@@ -103,6 +103,7 @@ header {
   color: var(--Desaturated-Dark-Cyan);
   padding-right: 40px;
 }
+/* End================================= */
 
 /* job-listings */
 .joblisitng__card {
@@ -129,7 +130,6 @@ header {
   flex-direction: column;
   align-items: center;
   padding-left: 27px;
-  /* width: 30px; */
 }
 
 /* All job-header styling============== */
@@ -147,20 +147,10 @@ header {
   border-radius: 29px;
   line-height: 1;
   border: 0;
-  /* width: auto; */
-  /* height: 23px; */
+
   font-size: 14px;
   font-weight: 700px;
   padding: 4px 12px;
-
-  /* display: block;
-  border: 0;
-  border-radius: 29px;
-  font-size: 20px;
-  padding: 16px 20px;
-  line-height: 1;
-  background-color: var(--Desaturated-Dark-Cyan);
-  color: #ffffff; */
 }
 
 /* End job-header styling */
@@ -168,7 +158,6 @@ header {
   margin: 10px;
   margin-right: 29px;
   color: var(--Desaturated-Dark-Cyan);
-  /* padding-left: 41px; */
 }
 
 .job-footer {
@@ -176,14 +165,11 @@ header {
   gap: 10px;
   color: var(--Dark-Grayish-Cyan);
   margin-right: 29px;
-  /* padding-right: 43px; */
 }
 
 .tag-list {
   display: flex;
   gap: 10px;
-
-  /* justify-content: space-between; */
 }
 /* job-listings End*/
 
