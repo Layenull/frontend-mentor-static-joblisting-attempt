@@ -31,7 +31,7 @@ function getData() {
               </div>
               <h3 class="job-position">${item.position}</h3>
               <div class="job-footer">
-                <p>1d ago</p>
+                <p>${item.postedAt}</p>
 
                 .
 
