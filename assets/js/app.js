@@ -45,7 +45,7 @@ function getData() {
           </div>
         </article>
         <div class="tag-list">
-          ${languages}
+          ${languages} 
         </div>
       </div>`;
         jobList.innerHTML += render;
